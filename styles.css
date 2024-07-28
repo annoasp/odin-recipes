@@ -1,0 +1,17 @@
+body {
+    font-family: Helvetica, Verdana, sans-serif;
+    background-color: hsl(221, 24%, 64%);
+    text-align: center;
+}
+
+.recipe1 {
+    background-color: #c0b26a;
+}
+
+.recipe2 {
+    background-color: #e3bfa4;
+}
+
+.recipe3 {
+    background-color: #efd8b1;
+}
