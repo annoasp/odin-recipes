@@ -1,7 +1,22 @@
-body {
+* {
     font-family: Helvetica, Verdana, sans-serif;
-    background-color: hsl(221, 24%, 64%);
+    /*text-align: center;*/
+}
+
+body.main {
+    width: 480px;
+    margin: 0 auto;
     text-align: center;
+    background-color: hsl(221, 24%, 64%);
+}
+
+ul.main {
+    padding: 24px;
+    border: 2px solid #313131;
+}
+
+.main {
+    color: #313131;
 }
 
 .recipe1 {
